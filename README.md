@@ -1,5 +1,6 @@
 ## 📌 **Amazon Clone – Full-Stack Web Application**  
 🛒 **A scalable e-commerce platform built with modern web technologies!**  
+![image](https://github.com/user-attachments/assets/58cf3736-16b7-4a0d-90d6-df5e2ceeeb73)
 
 
 ## 📜 **About the Project**
