@@ -4,12 +4,12 @@
 ![image](https://github.com/user-attachments/assets/58cf3736-16b7-4a0d-90d6-df5e2ceeeb73)
 
 
-## 📜 **About the Project**
+## **About the Project**
 This project is a full-stack **Amazon Clone Web Application** that enables users to browse products, add items to their cart, and make purchases. Built with **React.js** for the frontend and **Spring Boot** for the backend, the application follows **microservices architecture**, ensuring high scalability and performance.
 
 ---
 
-## 🚀 **Tech Stack**
+## **Tech Stack**
 | Technology  | Usage |
 |------------|------------------------------------------------|
 | **Frontend** | React.js, Redux, HTML, CSS, Bootstrap |
@@ -41,7 +41,7 @@ This project is a full-stack **Amazon Clone Web Application** that enables users
 
 ---
 
-## 🔧 **Installation & Setup**
+## **Installation & Setup**
 ### **1️⃣ Clone the repository**
 ```sh
 git clone https://github.com/yourusername/Amazon-Clone-Web-Application.git
@@ -74,7 +74,7 @@ docker-compose up --build
 
 ---
 
-## 🔥 **API Documentation**
+## **API Documentation**
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/api/products` | GET | Fetch all products |
@@ -84,7 +84,7 @@ docker-compose up --build
 ---
 
 ## 🤝 **Contributing**
-💡 **Want to improve this project?**  
+**Want to improve this project?**  
 Fork the repo, make your changes, and submit a pull request! We Can make this project even more better!
 
 ```sh
@@ -96,7 +96,7 @@ git push origin feature-branch
 
 ---
 
-## 📜 **License**
+## **License**
 This project is available to all. Feel free to use and modify it.  
 
 ---
