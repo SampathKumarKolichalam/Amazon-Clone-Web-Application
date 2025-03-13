@@ -88,7 +88,7 @@ docker-compose up --build
 Fork the repo, make your changes, and submit a pull request! We Can make this project even more better!
 
 ```sh
-git clone https://github.com/yourusername/Amazon-Clone-Web-Application.git
+git clone https://github.com/SampathKumarKolichalam/Amazon-Clone-Web-Application.git
 git checkout -b feature-branch
 git commit -m "Added new feature"
 git push origin feature-branch
