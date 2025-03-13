@@ -44,7 +44,7 @@ This project is a full-stack **Amazon Clone Web Application** that enables users
 ## **Installation & Setup**
 ### **1️⃣ Clone the repository**
 ```sh
-git clone https://github.com/yourusername/Amazon-Clone-Web-Application.git
+git clone https://github.com/SampathKumarKolichalam/Amazon-Clone-Web-Application.git
 cd Amazon-Clone-Web-Application
 ```
 
