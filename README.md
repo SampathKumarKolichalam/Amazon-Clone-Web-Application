@@ -1,10 +1,11 @@
 ## 📌 **Amazon Clone – Full-Stack Web Application**  
 🛒 **A scalable e-commerce platform built with modern web technologies!**  
+
 ![image](https://github.com/user-attachments/assets/58cf3736-16b7-4a0d-90d6-df5e2ceeeb73)
 
 
 ## 📜 **About the Project**
-This project is a full-stack **Amazon clone** that enables users to browse products, add items to their cart, and make purchases. Built with **React.js** for the frontend and **Spring Boot** for the backend, the application follows **microservices architecture**, ensuring high scalability and performance.
+This project is a full-stack **Amazon Clone Web Application** that enables users to browse products, add items to their cart, and make purchases. Built with **React.js** for the frontend and **Spring Boot** for the backend, the application follows **microservices architecture**, ensuring high scalability and performance.
 
 ---
 
@@ -88,7 +89,7 @@ docker-compose up --build
 
 ## 🤝 **Contributing**
 💡 **Want to improve this project?**  
-Fork the repo, make your changes, and submit a pull request!  
+Fork the repo, make your changes, and submit a pull request! We Can make this project even more better!
 
 ```sh
 git clone https://github.com/yourusername/Amazon-Clone-Web-Application.git
@@ -100,16 +101,14 @@ git push origin feature-branch
 ---
 
 ## 📜 **License**
-This project is licensed under the **MIT License**. Feel free to use and modify it.  
+This project is available to all the folks Feel free to use and modify it.  
 
 ---
 
 ## 👨‍💻 **Connect with Me**
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 Twitter: [Your Twitter](https://twitter.com/yourhandle)  
+📧 Email: [sampathkumarkolichalam@gmail.com](mailto:sampathkumarkolichalam@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/]
+
 
 ---
 
-This README is **clean, structured, and informative**. ✅  
-👉 **Want any modifications or additions?** Let me know! 🚀😃
