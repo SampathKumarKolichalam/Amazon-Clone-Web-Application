@@ -33,8 +33,7 @@ This project is a full-stack **Amazon Clone Web Application** that enables users
 
 ---
 
-## 📸 **Screenshots**
-🚀 *(Add actual screenshots of your app here)*  
+## 📸 **Screenshots** 
 
 | Home Page | Product Page | Cart Page |
 |------------|------------|------------|
@@ -70,15 +69,12 @@ docker-compose up --build
 
 ---
 
-## 🚀 **Live Demo**
-🌍 *(If deployed, add your live demo link here)*  
+## 🚀 **Live Demo**  
 👉 **[Amazon Clone - Live](https://your-deployment-link.com)**  
 
 ---
 
 ## 🔥 **API Documentation**
-*(If you have API endpoints, list them here with Postman collection link)*  
-
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/api/products` | GET | Fetch all products |
@@ -101,7 +97,7 @@ git push origin feature-branch
 ---
 
 ## 📜 **License**
-This project is available to all the folks Feel free to use and modify it.  
+This project is available to all. Feel free to use and modify it.  
 
 ---
 
